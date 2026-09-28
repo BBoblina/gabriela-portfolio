@@ -110,7 +110,7 @@ export const projects: Project[] = [
         title: "Photographie",
         year: 2021,
         category: "Photographie",
-        description: "Photos que j'ai pris durant ma formation IMD à l'eracom. Diffuseur utilisé comme fond et plexiglas pour le reflet.",
+        description: "Photos que j'ai prises durant ma formation IMD à l'eracom. Diffuseur utilisé comme fond et plexiglas pour le reflet.",
         layout: "stack",
         images: [
             "/images/fruits/kiwi.png",
